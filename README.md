@@ -28,7 +28,7 @@
                 <h3><a href="https://example.com/alihan" target="_blank">Адия</a></h3>
             </div>
             <div class="student-card">
-                <h3><a href="inform3.html" target="_blank">Алуа</a></h3>
+                <h3><a href="inform3 (1).html" target="_blank">Алуа</a></h3>
             </div>
             <div class="student-card">
                 <h3><a href="https://example.com/medet" target="_blank">Ерасыл</a></h3>
@@ -49,7 +49,7 @@
                 <h3><a href="қуаныш.html" target="_blank">Қуаныш</a></h3>
             </div>
             <div class="student-card">
-                <h3><a href="https://example.com/sanzhar" target="_blank">Мөлдір</a></h3>
+                <h3><a href="moldir (3).html" target="_blank">Мөлдір</a></h3>
             </div>
             <div class="student-card">
                 <h3><a href="https://example.com/diana" target="_blank">Малика</a></h3>
